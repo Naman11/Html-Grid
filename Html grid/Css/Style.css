@@ -1,0 +1,137 @@
+body{
+	background-color: rgba(124, 187, 114, 0.39);
+}
+.wrap{
+	background: #a95050;
+}
+.head{
+	position: fixed;
+	width: 100%;
+}
+.hero img{
+	margin-top: 172px;
+}
+.hero p{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.hero a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+.Main li{
+	display: inline;
+	float: left;
+    padding: 15px 0px 0px 0px;
+    font-size: 15px;
+}
+.logo{
+	height: 125px;
+	width: 300px;
+}
+.Main a{
+	text-decoration: none;
+	color: rgb(237, 234, 20);
+}
+.Main a:hover{
+	color: black;
+	text-decoration: underline;
+}
+.Menu a{
+	text-decoration: none;
+	color: rgb(237, 234, 20);
+}
+.Menu a:hover{
+	color: black;
+	text-decoration: underline;
+}
+.Menu li{
+	display: inline;
+	float: left;
+	font-size: 20px;
+	padding: 0px 0px 5px 0px;
+}
+.Menu a{
+	text-decoration: none;
+	color: rgb(237, 234, 20);
+}
+.Menu a:hover{
+	color: black;
+	text-decoration: underline;
+}
+.sub{
+
+	height: 40px;
+}
+.hero img{
+	margin-left: 25px;
+}
+.neymar{
+	height: 150px;
+	width: 300px;
+}
+.it{
+	height: 150px;
+	width: 300px;
+}
+.google{
+	height: 150px;
+	width: 300px;
+}
+.mid img{
+	float: left;
+}
+.block1{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.block2{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.block3{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.midcont p{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.midcon a{
+	text-decoration: none;
+}
+.block1 a{
+	text-decoration: none;
+}
+.block2 a{
+	text-decoration: none;
+}
+.block3 a{
+	text-decoration: none;
+}
+.company li{
+
+	list-style-type: none;
+}
+.company a{
+	text-decoration: none;
+}
+.foot li{
+	float: left;
+	list-style-type: none;
+}
+.foot a{
+	text-decoration: none;
+}
+.copyright li{
+	float: right;
+}
+footer{
+	background-color: rgba(154, 51, 135, 0.55);
+	height: 50px;
+	margin-bottom: 0px;
+}
+.foot{
+	font-size: 13.7px;	
+}
